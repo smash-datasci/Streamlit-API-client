@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+# API client example
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Use this to test the endpoints and see if data is returned. 
 
 ### How to run it on your own machine
 
@@ -17,3 +15,5 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Paste a URL in the text input box and click the button!
